@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="opengl-spinning-cube.vcxproj" />
+  <Project Path="opengl-spinning-cube.vcxproj" Id="f8aad086-5f35-4e03-a4fa-af55ae462484" />
 </Solution>
